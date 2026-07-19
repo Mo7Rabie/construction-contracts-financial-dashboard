@@ -26,7 +26,7 @@ An interactive Power BI dashboard designed to analyze the financial performance 
 ![Contract Analysis](Contract_Analysis.png)
 
 ### Profit Margin Analysis
-![Profit Margin Analysis](profit-margin-dashboard.png)
+![Profit Margin Analysis](Profit_Margin.png)
 
 ## 👨‍💻 Author
 **Mohamed Rabie**
